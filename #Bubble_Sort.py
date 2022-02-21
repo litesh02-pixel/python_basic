@@ -11,6 +11,6 @@ def sort(nums):
                 nums[j+1]=temp
 
 
-nums=[5,23,4,7,6,8,9]
+nums=[5,23,4,7,6,8,9,17,20]
 sort(nums)
 print(nums)
